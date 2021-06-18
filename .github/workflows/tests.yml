@@ -1,8 +1,7 @@
 name: tests
 
-on:
-  pull_request
-  
+on: pull_request
+
 jobs:
   build:
     runs_on: ubuntu-latest
